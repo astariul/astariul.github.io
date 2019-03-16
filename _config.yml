@@ -47,11 +47,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
+  - title:             Experience
+    url:               /experience/
+  - title:             Education
     url:               /hyde/
-  - title:             Documentation
+  - title:             Projects
     url:               /docs/
   - title:             About
     url:               /about/
@@ -71,8 +71,8 @@ menu:
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
-paginate_path:         /blog/page-:num/
+paginate:              100
+paginate_path:         /experience/page-:num/
 
 
 # Customizaton
@@ -81,10 +81,7 @@ paginate_path:         /blog/page-:num/
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/bg.png
 accent_color:          rgb(177, 68, 87)
-# rgb(62,8,20)
-# rgb(103,24,42)
-# rgb(103,26,45)
-# rgb(124,67,72)
+# rgb(197, 68, 87)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -103,32 +100,32 @@ font:                  Noto Sans, Helvetica, Arial, sans-serif
 # To change font-weight, see _sass/variables.scss
 font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
-defaults:
-  - scope:
-      path:            hyde
-    values:
-      accent_color:    rgb(177, 68, 87)
-      accent_image:
-        background:    rgb(62,8,20)
-        overlay:       false
+# defaults:
+#   - scope:
+#       path:            hyde
+#     values:
+#       accent_color:    rgb(177, 68, 87)
+#       accent_image:
+#         background:    rgb(62,8,20)
+#         overlay:       true
 
-  # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
-  # but we want them to be `WebPage`s:
-  - scope:
-      type:            projects
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
+#   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
+#   # but we want them to be `WebPage`s:
+#   - scope:
+#       type:            projects
+#     values:
+#       seo:
+#         type:          WebPage
+#   - scope:
+#       type:            featured_categories
+#     values:
+#       seo:
+#         type:          WebPage
+#   - scope:
+#       type:            featured_tags
+#     values:
+#       seo:
+#         type:          WebPage
 
 
 # 3rd Party Integrations

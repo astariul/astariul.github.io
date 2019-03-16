@@ -34,17 +34,17 @@ loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Read more
 
 cookies_banner:
   text:                >
     This site uses cookies.
-  okay:                Okay
+  okay:                It's OK
 
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+    Sorry, we can't find that URL...
     <!--home_link--> to try finding it again.
   home_link:           Head back home
 
@@ -62,15 +62,17 @@ category_spearator:    ' / '
 tag_start:             'on '
 tag_separator:         ', '
 from_to_separator:     '–'
+data_separator:        ' ~ '
 
 
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
   post:                '%d %b %Y'
+  exp:                 '%b %Y'
   related_post:        '%d %b %Y'
   list_group_by:       '%Y'
-  list_entry:          '%d %b'
+  list_entry:          '%b'
   project:             '%Y'
   projects_group_by:   '%Y'
   resume:              '%b %Y'

@@ -1,12 +1,8 @@
 ---
 layout: exp
-title: What's Jekyll?
+title: Gracenote
 date_start: 2012-02-06
 date_end: 2013-03-03
-description: >
-  Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
-author: author1
-noindex: true
 ---
 
 [Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
