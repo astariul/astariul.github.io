@@ -16,7 +16,12 @@
       <time datetime="{{ post.date_start | date_to_xmlschema }}">{{ post.date_start | date:post_format }}</time>
       {% assign date_separator     = site.data.strings.data_separator     | default:" ~ " %}
       {{ date_separator }}
-      <time datetime="{{ post.date_end | date_to_xmlschema }}">{{ post.date_end | date:post_format }}</time>
+      {% if post.date_end == 'now' %}
+        {% assign now_str     = site.data.strings.now     | default:"Now" %}
+        {{ now_str }}
+      {% else %}
+        <time datetime="{{ post.date_end | date_to_xmlschema }}">{{ post.date_end | date:post_format }}</time>
+      {% endif %}
     </p>
 
     {% assign alt = false %}
