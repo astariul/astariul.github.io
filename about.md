@@ -13,7 +13,7 @@ My name is Nicolas, and I'm a software engineer from France.
 
 ## Story time
 
-I grew up in France, next to Lyon. Pretty normal childhood, along with Pokemon and other computer games.
+I grew up in France, next to Lyon. Pretty normal childhood, along with Pokemon and other computer games like any 90' kids.
 
 I discovered computer science through calculator programming during my highschool classes. Choosing a computer science education was a pretty natural choice.
 
@@ -35,3 +35,14 @@ Chocolate. I enjoy chocolate.
 
 ## My favorite citations
 
+> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
+{:.lead}
+
+_Edsger Dijkstra_
+
+---
+
+> All artists are not chess players, but all chess players are artists.
+{:.lead}
+
+_Marcel Duchamp_

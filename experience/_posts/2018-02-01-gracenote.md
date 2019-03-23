@@ -4,6 +4,8 @@ title: Gracenote
 date_start: 2018-02-01
 date_end: 2018-07-31
 description: Intern in QA 
+addons: [about]
+author: yoan
 ---
 
 I did my end-of-study internship in Gracenote, in order to test (QA) a library used in the video ACR (Automatic Content Recognition) system of the company.
