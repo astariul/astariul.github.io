@@ -22,10 +22,7 @@ layout: page
     {% assign date = currentdate %}
   {% endif %}
 
-  {% assign featured = page.featured | default:project.featured | default:page.big_project | default:project.big_project %}
-  <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
-    {% include pro/project-card.html project=project featured=featured %}
-  </div>
+  {% include components/proj.html post=project no_link_title=page.no_link_title no_excerpt=page.no_excerpt hide_image=page.hide_image %}
 
   {% if forloop.last %}</div>{% endif %}
 {% endfor %}

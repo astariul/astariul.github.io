@@ -52,7 +52,7 @@ menu:
   - title:             Education
     url:               /education/
   - title:             Projects
-    url:               /docs/
+    url:               /projects
   - title:             About
     url:               /about/
 

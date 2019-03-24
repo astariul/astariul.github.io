@@ -71,6 +71,7 @@ now:                   'Now'
 date_formats:
   post:                '%d %b %Y'
   exp:                 '%b %Y'
+  proj:                '%Y'
   related_post:        '%d %b %Y'
   list_group_by:       '%Y'
   list_entry:          '%b'
