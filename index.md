@@ -12,6 +12,8 @@ cover: true
 <!-- Machine Learning Engineer
 {:.lead} -->
 
-Hi, I'm Nicolas, a software engineer from France.
+Bonjour !
+
+My name is Nicolas, and I’m a software engineer from France.
 
 I love python, machine learning, and Korea.

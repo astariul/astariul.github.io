@@ -7,9 +7,7 @@ author:
   email: remondnicola@gmail.com
 ---
 
-Bonjour !
-
-My name is Nicolas, and I'm a software engineer from France.
+You can discover me more personally here.
 
 ## Story time
 
@@ -36,13 +34,11 @@ Chocolate. I enjoy chocolate.
 ## My favorite citations
 
 > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
-{:.lead}
 
 _Edsger Dijkstra_
 
 ---
 
 > All artists are not chess players, but all chess players are artists.
-{:.lead}
 
 _Marcel Duchamp_
