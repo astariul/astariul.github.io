@@ -44,10 +44,3 @@ Working in a big structure like Gracenote was a great opportunity for me. Moreov
 I discovered a new field of computer science : QA. It broadened my perspective.
 
 Also, even if my direct boss was French (we used French shamelessly), I had to cooperate with other colleagues. We overcame language barrier with creativity !
-
-## Recommendation
-
-> Throughout his internship, Nicolas showed a great seriousness and huge level of involvment. The work done is of high quality, and his attention to details was valuable (particularly for his documentation effort).
-{:.lead}
-
-_**Yoan MAGNIEZ** - Senior Developer in Test, Gracenote_

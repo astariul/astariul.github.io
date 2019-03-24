@@ -101,9 +101,9 @@ I did a semester abroad, in the [Seoul National University](http://www.useoul.ed
 
 I took the following courses :
 
-* **Machine Learning Algorithms in Bioinformatics** : sequence alignement, Markov model, expectation-maximization, hidden markov model, motif discovery.
-* **Distributed Information Processing** : fundamentals, distributed memory/file systems, ubiquitous/peer-to-peer computing, embedded ystems, information protection, digital rights management, performance debugging, dynamic adaptation, distributed computing framework, cloud computing. 
-* **Intelligent systems** : probabilistic modeling & inference (Bayesian networks, hidden markov models, kalman filters, markov decision processes), machine learning (linear classification / regression, EM algorithm, support vector machines, reinforcement learning), robotics (localization, mapping, motion planning, software architecture), computer vision (image formation, edge detection, image segmentation, object recognition).
+* **Machine Learning Algorithms in Bioinformatics** : sequence alignement, Markov model, expectation-maximization, hidden markov model, motif discovery. For a project I implemented the K-means algorithm in `Python`, used for DNA pattern research.
+* **Distributed Information Processing** : fundamentals, distributed memory/file systems, ubiquitous/peer-to-peer computing, embedded ystems, information protection, digital rights management, performance debugging, dynamic adaptation, distributed computing framework, cloud computing. We did a student project (team of 3) where we implemented the DES cryptographic algorithm in `C` and in parallel computing using `Cuda`.
+* **Intelligent systems** : probabilistic modeling & inference (Bayesian networks, hidden markov models, kalman filters, markov decision processes), machine learning (linear classification / regression, EM algorithm, support vector machines, reinforcement learning), robotics (localization, mapping, motion planning, software architecture), computer vision (image formation, edge detection, image segmentation, object recognition). We did a student project (team of 3) where we designed an autonomous driving robot, with the path-finding algorithm A*.
 * **Self-learning Neural Algorithms** : PCA, Self-Organizing Map, information-theoretic learning models, statistical physics, dynamic programming, neurodynamics, bayesian filtering, dynamically driven recurrent networks.
 
 ---
