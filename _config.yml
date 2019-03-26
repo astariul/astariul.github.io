@@ -78,7 +78,7 @@ paginate_path:         /experience/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/bg.png
+accent_image:          /assets/img/background.png
 accent_color:          rgb(177, 68, 87)
 # rgb(197, 68, 87)
 

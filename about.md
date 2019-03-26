@@ -7,7 +7,9 @@ author:
   email: remondnicola@gmail.com
 ---
 
-You can discover me more personally here.
+As you noticed, I love python, machine learning, and Korea.
+
+Here, you can discover me more personally.
 
 ## Story time
 
@@ -23,6 +25,10 @@ During week-end I like going out, either riding bike or hiking to nearby mountai
 
 Even if I'm not good at it, I love playing video games. PC-bang in Korea are a child's dream for that matter.
 
+![mountain](/assets/img/about/velo.jpg)
+Going somewhere...
+{:.figure}
+
 ## What I enjoy
 
 I prefer winter to summer, without a doubt. Maybe this come from my obsession for ski, snowboard, and overall mountain. And the beauty of snow, of course.
@@ -31,7 +37,13 @@ I like to travel. I visited many countries, met a lot of different cultures, and
 
 Chocolate. I enjoy chocolate.
 
+![mountain](/assets/img/about/mountain.jpg)
+Seriously, breathtaking !
+{:.figure}
+
 ## My favorite citations
+
+---
 
 > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
 
