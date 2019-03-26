@@ -73,22 +73,20 @@ author1:
     # download:        <url>
 
 # Another author (optional)
+
 yoan:
-  name:              Autorisation
+  name:              Yoan MAGNIEZ
+  email:             yoan.magniez@gmail.com
+  about:             |
+    Throughout his internship, Nicolas showed a great seriousness and huge level of involvment. The work done is of high quality, and his attention to details was valuable (particularly for his documentation effort).
 
-# yoan:
-#   name:              Yoan MAGNIEZ
-#   email:             yoan.magniez@gmail.com
-#   about:             |
-#     Throughout his internship, Nicolas showed a great seriousness and huge level of involvment. The work done is of high quality, and his attention to details was valuable (particularly for his documentation effort).
-
-#     **Yoan MAGNIEZ**  
-#     _Senior Developer in Test_ - Gracenote
-#   picture:           assets/img/authors/yoan.jpg
-#   social:
-#     linkedin:          yoan-magniez-6543794
-#     email:             yoan.magniez@gmail.com
-#   accent_color:      '#b14457'
-#   accent_image:
-#     background:      '#202020'
-#     overlay:         false
+    **Yoan MAGNIEZ**  
+    _Senior Developer in Test_ - Gracenote
+  picture:           assets/img/authors/yoan.jpg
+  social:
+    linkedin:          yoan-magniez-6543794
+    email:             yoan.magniez@gmail.com
+  accent_color:      '#b14457'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
