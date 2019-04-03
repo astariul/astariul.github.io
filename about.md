@@ -2,9 +2,6 @@
 # file: about.md
 layout: about
 title:  About
-author:
-  name:  Nicolas REMOND
-  email: remondnicola@gmail.com
 ---
 
 As you noticed, I love python, machine learning, and Korea.
