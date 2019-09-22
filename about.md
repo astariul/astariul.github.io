@@ -22,7 +22,7 @@ During week-end I like going out, either riding bike or hiking to nearby mountai
 
 Even if I'm not good at it, I love playing video games. PC-bang in Korea are a child's dream for that matter.
 
-![velo](/assets/img/about/velo.jpg)
+![velo](/assets/img/about/velo.JPG)
 Going somewhere...
 {:.figure}
 
