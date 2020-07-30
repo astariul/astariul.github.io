@@ -1,3 +1,15 @@
+From cmd : 
+
+`bundle install`
+
+`bundle exec jekyll build`
+
+`bundle exec jekyll serve`
+
+
+
+
+
 # Hydejack
 
 The "Best Jekyll Theme by a Mile".
