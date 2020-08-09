@@ -7,7 +7,11 @@ From cmd :
 `bundle exec jekyll serve`
 
 
+---
 
+`npm audit fix`
+
+`bundle update`
 
 
 # Hydejack
