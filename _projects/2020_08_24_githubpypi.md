@@ -2,6 +2,7 @@
 layout: proj
 title: Github-hosted PyPi
 date: 2020-08-24
+image: /assets/img/projects/githubpypi.png
 ---
 
 A ready-to-deploy template for hosting a PyPi index on Github 
