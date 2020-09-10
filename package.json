@@ -31,13 +31,13 @@
     "color": "^3.1.0",
     "dedent": "^0.7.0",
     "json2yaml": "^1.1.0",
-    "onchange": "^5.2.0",
+    "onchange": "^7.0.2",
     "prettier": "^1.16.4",
     "re-template-tag": "^2.0.1",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-merge": "^4.2.1",
-    "yargs": "^12.0.5"
+    "yargs": "^16.0.3"
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "2.1.3",
