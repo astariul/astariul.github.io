@@ -7,9 +7,9 @@ permalink: /education/
 
 I have an Engineer degree (equivalent of Master degree) from [ESISAR](http://esisar.grenoble-inp.fr/en) - [Grenoble INP](http://www.grenoble-inp.fr/en), a public school specialized in computer sciences & network security. 
 
-Beyond the courses offered by the school, students also have several opportunities to discover the world of work, through internships and a special semester (called "Industrial Project") where they work full-time for a company, among a student team. 
+Beyond the courses offered by the school, students also have several opportunities to discover the professional world, through internships and a special semester (called "Industrial Project") where they work full-time for a company, among a student team. 
 
-It's also possible to make a semester abroad, in a different university.
+It's also possible to make a semester abroad in a different university, which I did.
 
 ---
 
@@ -18,7 +18,7 @@ It's also possible to make a semester abroad, in a different university.
 
 ## Bachelor Program
 
-The Bachelor program of ESISAR focus on theorical knowledge, such as mathematics and physics. Other subjects are also introduced, with for example de basics of electronics, algorithms, and Linux. Non-exhaustive list of subjects :
+The Bachelor program of ESISAR focus on theorical knowledge, such as mathematics and physics. Other subjects are also introduced, with for example basics of electronics, algorithms, and Linux. Non-exhaustive list of subjects :
 
 * **Mathematics** : arithmetic, algebra, geometry, discrete mathematics.
 * **Physics** : electromagnetism, semi-conductors, optical physics, mecanics of the particles.
@@ -75,7 +75,7 @@ The goal of this project is to re-design the whole kernel, and implement this ne
 
 * Easier to maintain
 * Faster (thanks to language choice)
-* multi-platform
+* Multi-platform
 
 ### Realization
 {:.no_toc}
