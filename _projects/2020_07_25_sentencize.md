@@ -8,7 +8,7 @@ A Julia package for splitting text into sentences.
 
 ---
 
-[Repository](https://github.com/astariul/Sentencize.jl)
+[Repository](https://github.com/astariul-colanim/Sentencize.jl)
 {:.lead}
 
 ---
