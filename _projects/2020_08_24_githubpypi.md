@@ -9,7 +9,7 @@ A ready-to-deploy template for hosting a PyPi index on Github
 
 ---
 
-[Repository](https://github.com/astariul/github-hosted-pypi)
+[Repository](https://github.com/astariul-colanim/github-hosted-pypi)
 {:.lead}
 
 ---
